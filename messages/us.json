@@ -1,0 +1,24 @@
+{
+    "Home": {
+        "navigation": {
+            "home": "Inicio",
+            "about": "Acerca de",
+            "contact": "Contacto"
+        },
+        "title": "Internacionalización (i18n) en Next.js 14",
+        "description": "Next.js 14 introduce características avanzadas de internacionalización (i18n), capacitando a los desarrolladores para gestionar fácilmente traducciones, enrutamiento basado en localización y localización de contenido para aplicaciones web globalmente accesibles. <br /> <br />Esto también aprovecha el soporte incorporado para múltiples locales, carga dinámica de contenido y manejo de respaldo robusto."
+    },
+    "AuthLogin": {
+        "title": "Log in to RicconApp",
+        "description": "Enter your email and password to access your account",
+        "linkForgotPassword": "Forgot password?",
+        "linkCreateAccount": "Create account",
+        "loginForm": {
+            "labelEmail": "Email",
+            "emailMesssage": "Enter your email",
+            "labelPassword": "Password",
+            "passwordMessage": "Enter your password",
+            "buttonSingIn": "Log in"
+        }
+    }
+}
