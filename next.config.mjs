@@ -8,7 +8,8 @@ const nextConfig = {
      experimental: {
          appDir: true
      },
-     output: 'export', 
+     output: 'export',
+     basePath: '/RicconApp-Frontend',
 };
  
 export default withNextIntl(nextConfig);
